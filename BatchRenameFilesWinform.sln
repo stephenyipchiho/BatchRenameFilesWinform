@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatchRenameFilesWinform", "BatchRenameFilesWinform\BatchRenameFilesWinform.csproj", "{22CA409F-A377-44DD-BD6F-6C929EE959B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22CA409F-A377-44DD-BD6F-6C929EE959B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22CA409F-A377-44DD-BD6F-6C929EE959B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22CA409F-A377-44DD-BD6F-6C929EE959B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22CA409F-A377-44DD-BD6F-6C929EE959B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1532F85-CBE9-410D-B216-6DB99D780525}
+	EndGlobalSection
+EndGlobal
